@@ -1,4 +1,4 @@
-# 🌳 Fonts Terminal Root
+# 🌳 Fonts from Terminal Root
 Fonts Terminal Root - My fonts preferred
 > A quick alternative to [Nerd Fonts](https://github.com/ryanoasis/nerd-fonts)!
 
@@ -6,7 +6,7 @@ Fonts Terminal Root - My fonts preferred
 
 # 🌒 Instalation
 ```bash
-git clone --depth=1 https://github.com/terroo/fonts
+git clone --depth=1 https://github.com/voyeg3r/fonts
 cd fonts
 mv fonts ~/.local/share
 fc-cache -fv
@@ -17,7 +17,7 @@ If you prefer to use a script to install, run:
 > You must have the [Lua Programming Language](https://github.com/lua/lua) installed on your system!
 
 ```bash
-git clone --depth=1 https://github.com/terroo/fonts
+git clone --depth=1 https://github.com/voyeg3r/fonts
 cd fonts
 lua install.lua
 ```
